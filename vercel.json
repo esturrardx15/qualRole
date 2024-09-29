@@ -1,6 +1,7 @@
 {
-    "build": {
-      "command": "npm run build"
-    },
-    "output": "out"
-  }
+  "build": {
+    "command": "npm run build"
+  },
+  "output": "out"
+}
+
